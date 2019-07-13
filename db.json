@@ -1,6 +1,6 @@
 {
   "portfolios": [
-    {"title": "Lump Sum", "shortDescription": "10% or nothing"},
-    {"title": "Model", "shortDescription": "Smaller positions, riskier."}
+    {"id":1, "title": "Lump Sum", "shortDescription": "10% or nothing"},
+    {"id":2, "title": "Model", "shortDescription": "Smaller positions, riskier."}
   ]
 }
